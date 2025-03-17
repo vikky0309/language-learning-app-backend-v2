@@ -37,3 +37,4 @@ app.post('/translate', async (req, res) => {
 app.listen(PORT, () => {
     console.log(`✅ Server running on http://localhost:${PORT}`);
 });
+// This is a test comment to trigger Git.
